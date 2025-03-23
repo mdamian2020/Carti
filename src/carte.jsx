@@ -1,3 +1,4 @@
+//  Componenta afișează datele unei cărți
 import React from "react";
 const Carte = () => {
   const titlu = "Harry Potter si Piatra Filosofală";
